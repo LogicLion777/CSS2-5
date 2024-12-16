@@ -1,0 +1,904 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+#logo {
+    max-width: 1920px;
+    width: 100%;
+    padding: 12px 32px;
+}
+
+#step_one {
+    max-width: 1856px;
+    width: 100%;
+}
+
+#step_two {
+    display: inline-block;
+    color: #323232;
+    text-align: center;
+    vertical-align: middle;
+    margin-left: 600px;
+    margin-right: 530px;
+    font-size: 14px;
+    font-weight: 400px;
+    max-width: 236px;
+    width: 100%;
+}
+
+#faq {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#contact_us {
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 500px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #6941c6;
+    background-color: #6941c6;
+}
+
+#step_three {
+    background-color: #f1e8ff;
+    margin-top: 240px;
+    margin-left: 100px;
+    padding: 70px;
+    max-width: 1440px;
+    width: 100%;
+}
+
+#step_for {
+    margin: 0 auto;
+    padding: 32px;
+    max-width: 1184px;
+    width: 100%;
+}
+
+#plans {
+    max-width: 768px;
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 24px;
+}
+
+#title {
+    color: #181d27;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    max-width: 259px;
+    width: 100%;
+}
+
+#Simple {
+    color: #535862;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 400px;
+    max-width: 768px;
+    width: 100%;
+}
+
+#step_five {
+    display: inline-block;
+    background-color: #ffffff;
+    border: 1px solid #e9eaeb;
+    border-radius: 16px;
+    max-width: 373px;
+    width: 100%;
+}
+
+#basic {
+    color: #6941c6;
+    background-color: #f9f5ff;
+    text-align: center;
+    font-size: 14px;
+    padding: 4px 12px;
+    margin: 0 auto;
+    vertical-align: top;
+    border-radius: 8px;
+    border: 1px solid #e9d7fe;
+    max-width: 93px;
+    width: 100%;
+}
+
+#step_six {
+    vertical-align: middle;
+    margin: 0 auto;
+    padding: 40px 32px 32px 32px;
+    max-width: 309px;
+    width: 100%;
+}
+
+#title_first {
+    color: #181d27;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 600px;
+    margin-top: 16px;
+    max-width: 309px;
+    width: 100%;
+}
+
+#plan_one {
+    color: #535862;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 8px;
+    margin-bottom: 15px;
+    max-width: 309px;
+    width: 100%;
+}
+
+#get {
+    color: #fff;
+    text-align: center;
+    font-weight: 600px;
+    font-size: 16px;
+    background-color: #7f56d9;
+    padding: 12px 18px;
+    border: 2px solid rgba(255, 255, 255, 0.12);
+    border-radius: 8px;
+    max-width: 309px;
+    width: 100%;
+}
+
+#chat {
+    color: #414651;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 12px 18px;
+    margin-top: 12px;
+    margin-bottom: 32px;
+    background-color: #fff;
+    border-radius: 8px;
+    border: 1px solid #d5d7da;
+    max-width: 309px;
+    width: 100%;
+}
+
+#border {
+    height: 1px;
+    background: #e9eaeb;
+    margin-bottom: 33px;
+}
+
+#chekbox {
+    vertical-align: middle;
+    margin-bottom: 16px;
+}
+
+#access {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 16px;
+    margin-left: 12px;
+    margin-bottom: 16px;
+    font-weight: 400;
+    max-width: 200px;
+    width: 100%;
+}
+
+#middle {
+    display: inline-block;
+    background-color: #ffffff;
+    border: 1px solid #e9eaeb;
+    vertical-align: top;
+    border-radius: 16px;
+    margin-left: 30px;
+    margin-right: 30px;
+    max-width: 373px;
+    width: 100%;
+}
+
+#middle_div {
+    vertical-align: middle;
+    margin: 0 auto;
+    padding: 40px 32px 32px 32px;
+    max-width: 309px;
+    width: 100%;
+    height: 589px;
+}
+
+#planA {
+    color: #6941c6;
+    background-color: #f9f5ff;
+    text-align: center;
+    font-size: 14px;
+    padding: 4px 12px;
+    margin: 0 auto;
+    vertical-align: top;
+    border-radius: 8px;
+    border: 1px solid #e9d7fe;
+    max-width: 117px;
+    width: 100%;
+}
+
+#gela {
+    color: #181d27;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 600;
+    margin-top: 16px;
+    max-width: 309px;
+    width: 100%;
+}
+
+#planB {
+    color: #535862;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 8px;
+    margin-bottom: 15px;
+    max-width: 309px;
+    width: 100%;
+}
+
+#horizon {
+    height: 1px;
+    background: #e9eaeb;
+    margin-bottom: 33px;
+}
+
+#instruction {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 16px;
+    margin-left: 12px;
+    margin-bottom: 14px;
+    font-weight: 400;
+    max-width: 200px;
+    width: 100%;
+}
+
+#html {
+    display: inline-block;
+    background-color: #ffffff;
+    border: 1px solid #e9eaeb;
+    vertical-align: top;
+    border-radius: 16px;
+    max-width: 373px;
+    width: 100%;
+    height: 591px;
+}
+
+#css {
+    vertical-align: middle;
+    margin: 0 auto;
+    padding: 40px 32px 32px 32px;
+    max-width: 309px;
+    width: 100%;
+}
+
+#java {
+    color: #6941c6;
+    background-color: #f9f5ff;
+    text-align: center;
+    font-size: 14px;
+    padding: 4px 12px;
+    margin: 0 auto;
+    vertical-align: top;
+    border-radius: 8px;
+    border: 1px solid #e9d7fe;
+    max-width: 125px;
+    width: 100%;
+}
+
+#dollar {
+    color: #181d27;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 600;
+    margin-top: 16px;
+    margin-bottom: 8px;
+    max-width: 309px;
+    width: 100%;
+}
+
+#advanced {
+    color: #535862;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 16px;
+    max-width: 309px;
+    width: 100%;
+}
+
+#label {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 16px;
+    margin-left: 12px;
+    margin-bottom: 20px;
+    font-weight: 400;
+    max-width: 200px;
+    width: 100%;
+}
+
+#last_container {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 64px;
+    padding: 32px 0px;
+    border-radius: 24px;
+    background-color: #fff;
+    max-width: 1248px;
+    width: 100%;
+}
+
+#game {
+    max-width: 768px;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 32px;
+}
+
+#hthree {
+    color: #181d27;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    font-size: 40px;
+    max-width: 550px;
+    width: 100%;
+}
+
+#none {
+    color: #535862;
+    text-align: center;
+    font-size: 24px;
+    max-width: 768px;
+    width: 100%;
+}
+
+#phone {
+    max-width: 768px;
+    width: 100%;
+    padding: 32px;
+    margin: 0 auto;
+    border-radius: 16px;
+    background-color: #e4e4e4;
+}
+
+#number {
+    max-width: 704px;
+    width: 100%;
+}
+
+#mark_one {
+    vertical-align: middle;
+}
+
+#trial {
+    display: inline-block;
+    color: #181d27;
+    font-size: 16px;
+    font-weight: 400;
+    vertical-align: middle;
+    margin-left: 20px;
+    max-width: 656px;
+    width: 100%;
+}
+
+#tryit {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    max-width: 656px;
+    width: 100%;
+    margin: 0 auto;
+    margin-left: 45px;
+}
+
+#phonenumber {
+    max-width: 768px;
+    width: 100%;
+    padding: 32px;
+    margin: 0 auto;
+    border-radius: 16px;
+    border: 2px solid #ff2323;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    background: #ffe5e5;
+}
+
+#brain {
+    max-width: 704px;
+    width: 100%;
+}
+
+#grow {
+    vertical-align: middle;
+}
+
+#myplan {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 20px;
+    margin-bottom: 8px;
+    color: #181d27;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    max-width: 650px;
+    width: 100%;
+}
+
+#changes {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    max-width: 656px;
+    margin-left: 45px;
+}
+
+#low {
+    max-width: 768px;
+    width: 100%;
+    padding: 32px;
+    background: #e9d7ff;
+    border-radius: 16px;
+    margin: 0 auto;
+}
+
+#hight {
+    max-width: 704px;
+    width: 100%;
+}
+
+#sily {
+    vertical-align: middle;
+}
+
+#policy {
+    display: inline-block;
+    color: #181d27;
+    vertical-align: middle;
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    max-width: 650px;
+    width: 100%;
+}
+
+#cancel {
+    color: #535862;
+    margin-top: 8px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    max-width: 650px;
+    width: 100%;
+    margin-left: 45px;
+}
+
+#imgdiv {
+    max-width: 768px;
+    width: 100%;
+    padding: 32px;
+    border-radius: 16px;
+    background: #f7f4ff;
+    margin: 0 auto;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+#photodiv {
+    max-width: 704px;
+    width: 100%;
+}
+
+#about {
+    vertical-align: middle;
+}
+
+#other {
+    display: inline-block;
+    color: #181d27;
+    vertical-align: middle;
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    max-width: 650px;
+    width: 100%;
+}
+
+#such {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 8px;
+    margin-left: 45px;
+}
+
+#many {
+    max-width: 768px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 32px;
+    border-radius: 16px;
+    border: 4px solid #326dff;
+    background-color: #dce6ff;
+}
+
+#much {
+    max-width: 704px;
+    width: 100%;
+}
+
+#circle_one {
+    vertical-align: middle;
+}
+
+#work {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 20px;
+    color: #181d27;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    max-width: 640px;
+    width: 100%;
+}
+
+#company {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 45px;
+}
+
+#lastest {
+    max-width: 768px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #ffd5e7;
+    border-radius: 16px;
+    padding: 32px;
+    margin-top: 16px;
+    margin-bottom: 32px;
+}
+
+#testt {
+    max-width: 704px;
+    width: 100%;
+}
+
+#group_pp {
+    vertical-align: middle;
+}
+
+#email {
+    display: inline-block;
+    vertical-align: middle;
+    color: #181d27;
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: 500px;
+    line-height: 24px;
+    max-width: 650px;
+    width: 100%;
+}
+
+#accounts {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 8px;
+    margin-left: 45px;
+    max-width: 650px;
+    width: 100%;
+}
+
+#lion {
+    border-radius: 24px;
+    padding: 32px 32px;
+    margin-top: 64px;
+    background-color: #fff;
+    max-width: 1256px;
+    width: 100%;
+}
+
+#footer {
+    max-width: 768px;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 64px;
+}
+
+#review {
+    color: #181d27;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 44px;
+    margin-bottom: 20px;
+    max-width: 768px;
+    width: 100%;
+}
+
+#hear {
+    color: #535862;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    max-width: 768px;
+    width: 100%;
+}
+
+#call {
+    width: 1190px;
+    height: 536px;
+}
+
+#display {
+    display: inline-block;
+    padding: 32px;
+    border: 1px solid #E9EAEB;
+    border-radius: 12px;
+    max-width: 580px;
+    width: 100%;
+}
+
+#display_content {
+    max-width: 516px;
+    width: 100%;
+}
+
+#been {
+    color: #181d27;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    margin-bottom: 80px;
+    max-width: 516px;
+    width: 100%;
+}
+
+#portrat {
+    vertical-align: middle;
+}
+
+#sienna {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 12px;
+    max-width: 310px;
+    width: 100%;
+}
+
+#Hewitt {
+    display: inline-block;
+    color: #181D27;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+}
+
+#manajer {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    max-width: 310px;
+    width: 100%;
+}
+
+#tic {
+    vertical-align: middle;
+    margin-left: 5px;
+}
+
+#companylogo {
+    vertical-align: middle;
+}
+
+#next {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 24px;
+    padding: 32px;
+    border: 1px solid #E9EAEB;
+    border-radius: 12px;
+    max-width: 580px;
+    width: 100%;
+}
+
+#next_div {
+    margin-bottom: 50px;
+    max-width: 516px;
+    width: 100%;
+}
+
+#become {
+    color: #181D27;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+#Caitlyn_one {
+    vertical-align: middle;
+}
+
+#Tic_tac {
+    vertical-align: middle;
+    margin-left: 5px;
+}
+
+#Plan_c {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 12px;
+    max-width: 317px;
+    width: 100%;
+}
+
+#Caitlyn_King {
+    display: inline-block;
+    color: #181D27;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+}
+
+#Odea {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#LoGo_five {
+    vertical-align: middle;
+}
+
+#OLY {
+    display: inline-block;
+    margin-top: 24px;
+    margin-right: 24px;
+    padding: 32px;
+    border: 1px solid #E9EAEB;
+    border-radius: 12px;
+    max-width: 580px;
+    width: 100%;
+}
+
+#Every {
+    max-width: 516px;
+    width: 100%;
+}
+
+#huge {
+    color: #181D27;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    margin-bottom: 50px;
+    max-width: 516px;
+    width: 100%;
+}
+
+#niga {
+    vertical-align: middle;
+}
+
+#designer {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 12px;
+    max-width: 332px;
+    width: 100%;
+}
+
+#evolution {
+    display: inline-block;
+    color: #181D27;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+}
+
+#omg {
+    vertical-align: middle;
+    margin-left: 5px;
+}
+
+#evo {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#coin {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 24px;
+    padding: 32px;
+    border: 1px solid #E9EAEB;
+    border-radius: 12px;
+    max-width: 580px;
+    width: 100%;
+}
+
+#usd {
+    max-width: 516px;
+    width: 100%;
+}
+
+#studio {
+    color: #181D27;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    margin-bottom: 80px;
+    max-width: 516px;
+    width: 100%;
+}
+
+#design {
+    vertical-align: middle;
+}
+
+#part {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 12px;
+    max-width: 336px;
+    width: 100%;
+}
+
+#riley {
+    display: inline-block;
+    color: #181D27;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+}
+
+#Engineer {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#last_tick {
+    vertical-align: middle;
+    margin-left: 5px;
+}
+
+#AIchat {
+    vertical-align: middle;
+}
+
+
+
+
